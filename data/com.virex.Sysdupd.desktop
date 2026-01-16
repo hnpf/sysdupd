@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Sysdupd
+Comment=A full GUI system updater
+Exec=python3 -m sysdupd
+Icon=com.virex.Sysdupd
+Terminal=false
+Type=Application
+Categories=System;Utility;

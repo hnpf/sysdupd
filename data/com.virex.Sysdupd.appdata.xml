@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.virex.Sysdupd.desktop</id>
+  <name>Sysdupd</name>
+  <summary>A GNOME and full system updater</summary>
+  <metadata_license>GPL-3.0-or-later</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <description>
+    <p>
+      Sysdupd is a GNOME and full system updater, showing available updates on various Linux distributions.
+    </p>
+    <p>
+      It is themed with GTK4 / libadwaita and provides a layout similar to Windows updates, with tweakable options.
+      The application gives a notification when updates are done and can prompt for a system restart.
+    </p>
+  </description>
+  <screenshots>
+    <!-- Add screenshots here later -->
+  </screenshots>
+  <url type="homepage">https://example.com/sysdupd</url>
+  <developer_name>Your Name/Organization</developer_name>
+</component>
