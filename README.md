@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-
+![screenshot](sample/image.png) 
 ---
 
 ## Installation
