@@ -1,8 +1,8 @@
 # 📦 sysdupd
 
-### a modern, cross-platform system updater built with libadwaita aesthetics.
+### A modern, cross-platform system updater built with libadwaita and Python.
 
-> "have you ever wanted to just fully update your system and forgot how? this is the solution for you!"
+> "Have you ever wanted to just fully update your system and forgot how? This is the solution for you!"
 
 ![license](https://img.shields.io/badge/license-MIT-pink) 
 ![platform](https://img.shields.io/badge/platform-linux-peach)
